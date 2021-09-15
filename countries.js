@@ -23,8 +23,7 @@ const displayCountries = countries => {
         // h3.innerText= country.name;
         // div.appendChild(h3);
         // const p = document.createElement('p')
-        // p.innerText = country.capital;
-        // div.appendChild(p);
+    
         countriesDiv.appendChild(div);
     })
 
